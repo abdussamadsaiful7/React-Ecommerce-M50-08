@@ -6,6 +6,10 @@
     position: relative;
     
 }
+
+.product:hover{
+    box-shadow: 3px 3px 3px gray;
+}
 .product-info{
     padding: 10px;
 }
@@ -23,5 +27,9 @@
   position: absolute;
   bottom: 0;
  border-radius: 0px 0px 8px 8px;
- 
+
+}
+
+.btn-cart:hover{
+    background:#eebd73;
 }
