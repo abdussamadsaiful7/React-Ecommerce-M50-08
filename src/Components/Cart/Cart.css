@@ -3,10 +3,19 @@
     padding:25px;
     position: sticky;
     top: 0;
+    border-radius: 6px;
+
 }
 .cart p{
     font-size: 15px;
     color: aliceblue;
     font-size: bold;
    
+}
+
+.cart:hover{
+    box-shadow: 3px 3px 3px gray;
+}
+.cart .gt:hover{
+    color: red;
 }
