@@ -6,6 +6,7 @@
     align-items: center;
     padding-left: 100px;
     padding-right: 100px;
+    border-radius: 0px 0px 0px 6px;
 
 }
 
@@ -19,4 +20,8 @@ nav.header a{
 
 nav.header a:hover{
     color:brown;
+}
+
+.header:hover{
+    box-shadow: 3px 3px 3px gray;
 }
